@@ -230,7 +230,12 @@ section.projects {
     display: flex;
     flex-direction: column;
     text-align: left;
+
+    & a:hover {
+      color: blueviolet;
+    }
   }
+
   & .list {
     display: flex;
     flex-direction: column;

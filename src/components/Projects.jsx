@@ -14,12 +14,14 @@ function Projects() {
       mission: "Back-end Developer, system analysis and design",
       language:
         "ReactJS, MUI, Redux, NestJS, SQL Server, TypeORM, Redis, Stripe, Momo, Cloudinary",
-      images: "https://res.cloudinary.com/dk0lhapty/image/upload/v1741073590/Capture_hez89p.png",
+      images:
+        "https://res.cloudinary.com/dk0lhapty/image/upload/v1741073590/Capture_hez89p.png",
       linkGit: [
         "https://github.com/VuDinhPhong2-1/FE-WebBanDoDienTu",
         "https://github.com/VuDinhPhong2-1/WebBanDoDienTu",
       ],
-      linkYtb: "https://www.youtube.com/watch?v=NPIgNaLKzoM&ab_channel=PhongV%C5%A9%C4%90%C3%ACnh",
+      linkYtb:
+        "https://www.youtube.com/watch?v=NPIgNaLKzoM&ab_channel=PhongV%C5%A9%C4%90%C3%ACnh",
     },
     {
       name: "Cookbook - Recipe Management App",
@@ -27,7 +29,8 @@ function Projects() {
       mission:
         "Developing Front-end (Android Studio) and Back-end (Firebase), system analysis and design",
       language: "Java, Firebase, Android Studio",
-      images: "https://res.cloudinary.com/dk0lhapty/image/upload/v1741073607/894f445a-81b2-454e-b256-b5edcca0d11f_nvdvxj.jpg",
+      images:
+        "https://res.cloudinary.com/dk0lhapty/image/upload/v1741073607/894f445a-81b2-454e-b256-b5edcca0d11f_nvdvxj.jpg",
       linkGit: ["https://github.com/VuDinhPhong2-1/android_studio_cookBooks"],
       linkYtb: "",
     },
@@ -95,7 +98,7 @@ function Projects() {
                         rel="noopener noreferrer"
                         className="project-link"
                       >
-                        {link}
+                        click here
                       </a>
                     ))}
                   </div>
@@ -115,7 +118,7 @@ function Projects() {
                         rel="noopener noreferrer"
                         className="project-link"
                       >
-                        {value.linkYtb}
+                        click here
                       </a>
                     </div>
                   </div>

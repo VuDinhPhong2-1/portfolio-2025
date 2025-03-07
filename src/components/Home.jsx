@@ -23,7 +23,7 @@ function Home() {
           collaborating on exciting projects. If you're interested, feel free to
           reach out!
         </div>
-        <a href="/">Download my cv</a>
+        <a href="https://drive.google.com/file/d/1b4nmtGok6DYNBNe0sm9epu9GM9F80epM/view?usp=sharing">Download my cv</a>
       </div>
       <div className="avatar">
         <div className="card">
