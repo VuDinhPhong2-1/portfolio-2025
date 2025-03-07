@@ -19,7 +19,7 @@ function Projects() {
         "https://github.com/VuDinhPhong2-1/FE-WebBanDoDienTu",
         "https://github.com/VuDinhPhong2-1/WebBanDoDienTu",
       ],
-      linkYtb: "https://github.com/VuDinhPhong2-1/WebBanDoDienTu",
+      linkYtb: "https://www.youtube.com/watch?v=NPIgNaLKzoM&ab_channel=PhongV%C5%A9%C4%90%C3%ACnh",
     },
     {
       name: "Cookbook - Recipe Management App",
